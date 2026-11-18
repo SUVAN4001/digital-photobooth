@@ -1,6 +1,6 @@
 # Digital Photobooth
 
-Take a set of webcam photos, customize the strip, and save a PNG to share or a PDF to print.
+Give your favorite moments a date, a name, and a place on your wall. This free online photobooth lets you turn snapshots or uploads into custom photo strips. Pick a filter and layout, add your own date and event name, then save a PNG to share or a PDF to print.
 
 [Open the live photobooth](https://suvan4001.github.io/digital-photobooth/digital%20photobooth.html)
 
